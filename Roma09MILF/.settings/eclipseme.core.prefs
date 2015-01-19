@@ -1,0 +1,4 @@
+#Fri Nov 21 12:19:35 CET 2008
+eclipse.preferences.version=1
+obfuscate_use_project=true
+proguard_keep=public class * extends javax.microedition.midlet.MIDlet|public class it.seat.roma09.frontend.Roma09PageFactory
